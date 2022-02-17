@@ -33,23 +33,23 @@ I'm an Associate professor in Department of Big Data Application, Hannam Univers
 
 #### 2022
 
-`-` Advanced Python
+`-` Advanced Python (Department of Big Data Application, Hannam University)
 
-`-` Data mining
+`-` Data mining (Department of Big Data Application, Hannam University)
 
-`-` Open Data Analysis
+`-` Open Data Analysis (Department of Big Data Application, Hannam University)
 
 #### 2021
 
-`-` Basics Statistics
+`-` Basics Statistics (Department of Big Data Application, Hannam University)
 
-`-` Machine Learning
+`-` Machine Learning (Department of Big Data Application, Hannam University)
 
-`-` Explanatory Data Analysis
+`-` Explanatory Data Analysis (Department of Big Data Application, Hannam University)
 
-`-` Text mining
+`-` Text mining (Department of Big Data Application, Hannam University)
 
-`-` Basics Mathematics
+`-` Basics Mathematics (Department of Big Data Application, Hannam University)
 
 `-` [Summer Program: AI and Big Data Analysis for Smart City](https://dataonair.or.kr/bigjob/)
 
