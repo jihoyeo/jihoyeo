@@ -1,3 +1,5 @@
+https://jihoyeo.notion.site/b564e282ce54435bbe63c4cfc09e61c7
+
 
 ### About me
 
