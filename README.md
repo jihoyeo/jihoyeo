@@ -1,6 +1,3 @@
-https://jihoyeo.notion.site/b564e282ce54435bbe63c4cfc09e61c7
-
-
 ### About me
 
 I'm an Associate professor in Department of Big Data Application, Hannam University, South Korea. I received my Ph.D. from the Cho Chun Shik Graduate School for Green Transportation, KAIST in 2020, under the supervision of Prof. Kitae Jang. I pursue multidisciplinary research. In particular, based on various urban and transportation data, I am interested in data-driven research that is helpful for operation of various mobility systems and construction of smart cities. Recent research topic lies in developing deep learning and optimization algorithms that are utilized in mobility-on-demand systems. 
