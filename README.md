@@ -1,16 +1,25 @@
 ### About me
 
-I'm an Assistant professor in Department of Big Data Application, Hannam University, South Korea. I received my Ph.D. from the Cho Chun Shik Graduate School of Mobility, KAIST in 2020, under the supervision of Prof. Kitae Jang. I pursue multidisciplinary research. In particular, based on various urban and transportation data, I am interested in data-driven research that is helpful for operation of various mobility systems and construction of smart cities. Recent research topic lies in developing deep learning and optimization algorithms that are utilized in mobility-on-demand systems. 
+I'm an Assistant professor in Department of Smart City, Gachon University, South Korea. I received my Ph.D. from the Cho Chun Shik Graduate School of Mobility, KAIST in 2020, under the supervision of Prof. Kitae Jang. I pursue multidisciplinary research. In particular, based on various urban and transportation data, I am interested in data-driven research that is helpful for operation of various mobility systems and construction of smart cities. Recent research topic lies in developing deep learning and optimization algorithms that are utilized in mobility-on-demand systems. 
 
 --- 
 
 ### Contact Information
 
-`-` Email: jihoyeo@unk.kr
+`-` Email: jihoyeo@gachon.ac.kr
 
 --- 
 
 ### Publications
+`-` Lee, K., Kim, J., Kwon, J., & Yeo, J. (2024). Maritime supply chain risk sentiment and the korea trade volume: A news big-data analysis perspective. The Asian Journal of Shipping and Logistics.
+
+`-` Kim, S., Jang, K., & Yeo, J. (2023). Non-linear impacts of COVID-19 pandemic on human mobility: Lessons from its variations across three pandemic waves. Sustainable Cities and Society, 97, 104769.
+
+`-` Yeo, J., Lee, S., Jang, K., & Lee, J. (2023). Real-Time Operations of Autonomous Mobility-on-Demand Services with Inter-and Intra-Zonal Relocation. IEEE Transactions on Intelligent Vehicles.
+
+`-` Yeon, H., Eom, T., Jang, K., & Yeo, J. (2023). DTUMOS, digital twin for large-scale urban mobility operating system. Scientific Reports, 13(1), 5154.
+
+`-` Shim, J., & Yeo, J. (2022). An evaluation method of road link functionality using individual trajectory data and weighted network analysis. Journal of Advanced Transportation, 2022.
 
 `-` Kim, S., Lee, S., Ko, E., Jang, K., & Yeo, J. (2021). "Changes in car and bus usage amid the COVID-19 pandemic: Relationship with land use and land price" Journal of Transport Geography, 96, 103168.
 
